@@ -1,0 +1,3 @@
+rootProject.name = 'calculatorbon'
+
+include ':app'
